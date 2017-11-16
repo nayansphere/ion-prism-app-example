@@ -15,3 +15,5 @@ ionic cordova prepare
 ```
 ionic serve -l
 ```
+
+<img src="https://i.imgur.com/7wuI6aP.png" width="340" alt="Result illustration"/>
