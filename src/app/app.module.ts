@@ -6,7 +6,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
-import {IonPrismDirective} from 'ion-prism';
+import { IonPrismDirective } from 'ion-prism';
 
 @NgModule({
   declarations: [

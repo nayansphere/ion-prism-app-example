@@ -7,9 +7,9 @@ For documentation please visit the repo of the directive.
 ```
 git clone git@github.com:proustibat/ion-prism-app-example.git
 cd ion-prism-app-example
-npm i
 ionic cordova prepare
 ```
+Accept to install npm packages or run `npm i` before.
 
 ## Run
 ```
@@ -17,3 +17,4 @@ ionic serve -l
 ```
 
 <img src="https://i.imgur.com/7wuI6aP.png" width="340" alt="Result illustration"/>
+

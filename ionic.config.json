@@ -2,5 +2,7 @@
   "name": "ion-prism-app-example",
   "app_id": "",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
